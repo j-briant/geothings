@@ -1,7 +1,7 @@
-base_url = "https://YOUR_URL.TLD"
-title = "site title"
-description = "YOUR_SITE_DESCRIPTION"
-author = "YOUR_NAME"
+base_url = "https://geothings.ch"
+title = "geothings"
+description = "spatial data | open source | oversharing"
+author = "jujubé"
 theme = "tabi"
 generate_feeds = true
 compile_sass = true
